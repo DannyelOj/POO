@@ -12,6 +12,16 @@ package com.mycompany.acd01ejemplo1;
 public class Acd01ejemplo1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Uso de Plantilla Persona");
+        
+        Persona persona1 = new Persona();
+        Persona persona2 = new Persona();
+        Persona persona3 = new Persona();
+        
+        //ingresar Datos
+        
+        String n = "Juan";
     }
+    
+    
 }
